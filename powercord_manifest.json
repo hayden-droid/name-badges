@@ -2,7 +2,7 @@
     "name": "Name Badges",
     "description": "Some nice custom badges for next to usernames.",
     "version": "1.2.2",
-    "author": "LuckFire#4800",
+    "author": "Descendo The Cat#6311",
     "theme": "./src/main/_powercord.scss",
     "consent": "true",
     "license": "MIT"
